@@ -1,0 +1,3 @@
+---'s overall score for Adaptability (TACR) was **average** compared to other children their age (---'s TACR = -0.36, Average TACR = -1.31, ---'s TACR z-score = -0.36). TACR measures a player’s ability to set shift or adapt, namely how easily they are able to recognize and appropriately adapt their behavior to changing circumstances and rules. An average score in Adaptability means --- is on the right track and you shouldn't be too worried about their ability to adapt.
+
+---’s Adaptability score was average because they were able to realize what the game was asking of them when giving them new puzzles and rules. You may have noticed that when stages looked very different from before, they would take time to try and explore and adjust.

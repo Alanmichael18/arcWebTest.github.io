@@ -1,0 +1,3 @@
+---'s overall score for Planning (MDS) was **average** compared to other children their age (---'s MDS = -0.02, Average MDS = 9.03, ---'s MDS z-score = -0.02). MDS measures a player’s planning ability, namely, their ability to think through sequential, logical steps and deduce the appropriate current course of action.  An average score in Planning means --- is on the right track and you shouldn't be too worried about their planning abilities. 
+
+---’s Planning score was average because they were able to walk through their own solutions step by step in the game. You may have also noticed that when stages looked complex, they would still be able to break the task down and tackle individual parts.

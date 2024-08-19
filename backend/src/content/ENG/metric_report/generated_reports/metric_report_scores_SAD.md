@@ -1,0 +1,3 @@
+---'s overall score for Inhibition (SAD) was **high** compared to other children their age (---'s SAD = 0.92, Average SAD = 5.37, ---'s SAD z-score = 0.92). SAD measures a player’s inhibitory control,  namely, their ability to withhold action until the proper timing, even when they have a strong impulse to take the action anyway. Scoring high in Inhibition is remarkable, and you should feel proud of --- for their skills in staying patient and meticulous. 
+
+---’s Inhibition score was high because they may have tended to wait until they were sure of their solution before executing. You may have also noticed they didn't unnecessarily fire the ball for solutions they knew wouldn't work.

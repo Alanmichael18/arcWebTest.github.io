@@ -1,0 +1,3 @@
+---'s overall score for Working Memory (SAV) was **average** compared to other children their age (---'s SAV = 0.13, Average SAV = 3.67, ---'s SAV z-score = 0.13). SAV measures a player’s working memory,  namely, their ability to encode and store temporary chunks of information and appropriately access it later for usage.  An average score in Working Memory means --- is on the right track and you shouldn't be too worried about their ability to keep things in their memory.
+
+---’s Working Memory score was average because they were able to keep track of multiple pieces on the board at once. You may have also noticed they were able to remember parts to their solution they wished to change.

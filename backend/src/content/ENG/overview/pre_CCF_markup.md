@@ -1,0 +1,1 @@
+Within the game, {NAME} performed particularly well in {STAR_CCF}, which is a valuable strength. At the same time, {NAME}'s weaker {DIAMOND_CCF} score may have prevented {NAME} from performing at an even higher level. 

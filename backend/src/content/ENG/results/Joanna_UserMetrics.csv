@@ -1,0 +1,7 @@
+,sessionID,metricName,metricIdentifier,rawValue,scoredValue,zScoreInSample,zScoreInPopulation,tScoreInSample,tScoreInPopulation,metricTitle
+21,Joanna,SAD,0,448.43,6.11,1.7,1.25,67.05,62.47,Score Attack Deliberation
+22,Joanna,SAV,0,30.0,3.4,-1.57,-0.37,34.25,46.32,Score Attack Verbosity
+23,Joanna,SAR,0,39000.0,10.57,0.35,0.78,53.54,57.85,Score Attack Record
+24,Joanna,TACR,0,0.68,1.2,0.89,1.56,58.92,65.62,Task-Appropriate Coordinate Repeat
+25,Joanna,MDS,0,8.0,8.0,0.47,-0.54,54.66,44.61,Maximum Difficulty Solved
+26,Joanna,EFCS,0,0.68,0.51,0.77,0.43,57.74,54.31,Executive Function Composite Score

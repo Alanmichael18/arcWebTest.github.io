@@ -1,0 +1,45 @@
+metricName,Low,Average,High
+EFCS,"Though {NAME} scored {SCORE_RATING} on {METRIC}, there are several strategies that can help them improve. Breaking down complex tasks step-by-step and organizing them can help {NAME} digest information more easily.
+
+{NAME}’s {METRIC} score was {SCORE_RATING} because they may have struggled throughout the progression of the stages in the game. You may have also noticed that they found the tasks in the puzzle to be complex or daunting, and weren't easily able to figure them out.","An {SCORE_RATING} score in {METRIC} means {NAME} is on the right track and you shouldn't be too worried about their abilities in understanding and navigating complex tasks.
+
+{NAME}’s {METRIC} score was {SCORE_RATING} because they were able to adequately understand the tasks given to them by the game. You may have also noticed that though some tasks could have been challenging to them, it seemed like they understood general directions for solving them. ","A {SCORE_RATING} score in {METRIC} is an impressive strength, and you should be very proud of {NAME}'s amazing executive functioning skills.
+
+{NAME}’s {METRIC} score was {SCORE_RATING} because they were able to understand and solve many of the tasks given to them by the game. You may have also noticed that though some tasks could have been challenging to them, it seemed like if given enough time, they would be able to figure it out."
+TACR,"Though {NAME} scored {SCORE_RATING} in {METRIC}, change can be scary for anyone, and adaptability can be encouraged and taught with proper patience, support, and time. 
+
+{NAME}’s {METRIC} score was {SCORE_RATING} because they may have struggled with understanding new stages of the game and adjusting to new pieces or rules. You may have also noticed that when stages looked very different from before, they seemed cautious or confused.","An {SCORE_RATING} score in {METRIC} means {NAME} is on the right track and you shouldn't be too worried about their ability to adapt.
+
+{NAME}’s {METRIC} score was {SCORE_RATING} because they were able to realize what the game was asking of them when giving them new puzzles and rules. You may have noticed that when stages looked very different from before, they would take time to try and explore and adjust.","A {SCORE_RATING} score in {METRIC} is outstanding, and you should praise their skills in adjusting and adapting to new scenarios.
+
+{NAME}’s {METRIC} score was {SCORE_RATING} because they were quick to realize what the game was asking of them when giving them new puzzles and rules and then properly adjust. You may have also noticed that even when stages looked very different from before and new pieces were introduced, they didn't seem particularly intimidated."
+MDS,"Though {NAME} scored {SCORE_RATING} on {METRIC}, with patience and support, this is a metric that can be taught and improved if you create a supportive and patient environment.
+
+{NAME}’s {METRIC} score was {SCORE_RATING} because they may have struggled with coming up with a plan on how to solve the puzzles. You may have also noticed that when stages started to get more complex, they would have trouble breaking the puzzles down into steps and performing the steps sequentially.","An {SCORE_RATING} score in {METRIC} means {NAME} is on the right track and you shouldn't be too worried about their planning abilities. 
+
+{NAME}’s {METRIC} score was {SCORE_RATING} because they were able to walk through their own solutions step by step in the game. You may have also noticed that when stages looked complex, they would still be able to break the task down and tackle individual parts.","Scoring {SCORE_RATING} in {METRIC} is an excellent accomplishment, and you should be proud of {NAME}'s ability to think through and plan solutions to problems. 
+
+{NAME}’s {METRIC} score was {SCORE_RATING} because they were able to plan out how to solve the puzzles in the game sequentially. You may have also noticed that when stages looked complex, they would still be able to logically anticipate where the ball would travel during execution."
+SAR,"Though {NAME} scored {SCORE_RATING} on {METRIC}, strategic thinking is a skill that can be developed over time. Encourage creativity and open-ended play to foster new ideas and celebrating small successes will build their confidence and skills.
+
+
+{NAME}’s {METRIC} score was {SCORE_RATING} because they struggle with coming up with efficient solutions to more open-ended tasks. You may have also noticed that in closed tasks they may unnecessarily complicated their board over picking more efficient solutions. ","An {SCORE_RATING} score in {METRIC} means {NAME} is on the right track and you shouldn't be too worried about their strategic thinking skills.
+
+{NAME}’s {METRIC} score was {SCORE_RATING} because they were able to grasp how to formulate an effective solution to more open-ended tasks. You may have also noticed that in closed tasks they may have picked more efficient solutions. ","A {SCORE_RATING} score in {METRIC} is a rare talent, and you should feel proud of {NAME}, as they have incredible problem-solving skills.
+
+{NAME}’s {METRIC} score was {SCORE_RATING} because they were able to come up with efficient solutions to more open-ended tasks. You may have also noticed that in closed tasks they may have picked more efficient solutions. "
+SAD,"Though {NAME} scored {SCORE_RATING} on {METRIC}, with proper workarounds and patience, it won't prove an issue. Minimizing distractions, trying self-regulation techniques, and teaching appropriate communication styles can greatly help {NAME}.
+
+{NAME}’s {METRIC} score was {SCORE_RATING} because they tended to want to try things out immediately and take a more trial-and-error approach rather than waiting and planning out their solution. You may have also noticed they sometimes would fire the ball for solutions they knew wouldn't work.","An {SCORE_RATING} score in {METRIC} means {NAME} is on the right track and you shouldn't be too worried about their inhibitory control.
+
+{NAME}’s {METRIC} score was {SCORE_RATING} because they were able to wait and understand more about the task stage before immediately executing. You may have also noticed they didn't unnecessarily fire the ball for solutions they knew wouldn't work.","Scoring {SCORE_RATING} in {METRIC} is remarkable, and you should feel proud of {NAME} for their skills in staying patient and meticulous. 
+
+{NAME}’s {METRIC} score was {SCORE_RATING} because they may have tended to wait until they were sure of their solution before executing. You may have also noticed they didn't unnecessarily fire the ball for solutions they knew wouldn't work."
+SAV,"Though {NAME} scored {SCORE_RATING} on {METRIC}, with practice, their working memory skills will prove no issue, and can be improved. Using repetition in learning and alongside {NAME} can be very encouraging for them. 
+
+{NAME}’s {METRIC} score was {SCORE_RATING} because they may have struggled with keeping track of many pieces on the board at once. You may have also noticed that when the amount of tasks to they needed to complete to get to the goal was too high, they weren't able to remember all of the things they needed to do. 
+","An {SCORE_RATING} score in {METRIC} means {NAME} is on the right track and you shouldn't be too worried about their ability to keep things in their memory.
+
+{NAME}’s {METRIC} score was {SCORE_RATING} because they were able to keep track of multiple pieces on the board at once. You may have also noticed they were able to remember parts to their solution they wished to change.","Scoring {SCORE_RATING} in {METRIC} is a significant strength, and you should feel proud of {NAME} and their memory skills. 
+
+{NAME}’s {METRIC} score was {SCORE_RATING} because they were able to keep track of many pieces on the board at once. You may have also noticed they were able to remember parts to their solution they wished to change without having to walk through the entire solution."

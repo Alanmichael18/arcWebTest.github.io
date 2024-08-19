@@ -1,0 +1,7 @@
+metricName,fullName,laymansName,quickDesc,description
+EFCS,Executive Function Composite Score,Executive Function,ability to plan and execute tasks,measures a player's overall executive function and ability to plan and execute tasks.
+TACR,Task-Appropriate Coordinate Repeat,Adaptability,ability to change behavior acoordingly,"measures a player’s ability to set shift or adapt, namely how easily they are able to recognize and appropriately adapt their behavior to changing circumstances and rules."
+MDS,Maximum Difficulty Solved,Planning,ability to make step-by-step solutions,"measures a player’s planning ability, namely, their ability to think through sequential, logical steps and deduce the appropriate current course of action. "
+SAR,Score Attack Record,Strategic Thinking,ability to solve open-ended tasks,"measures a player’s strategic thinking,  namely, their ability to abstractly come up with “best approaches” to a relatively open-ended task or need. "
+SAD,Score Attack Deliberation,Inhibition,ability to inhibit responses,"measures a player’s inhibitory control,  namely, their ability to withhold action until the proper timing, even when they have a strong impulse to take the action anyway."
+SAV,Score Attack Verbosity,Working Memory,ability to remember information,"measures a player’s working memory,  namely, their ability to encode and store temporary chunks of information and appropriately access it later for usage. "

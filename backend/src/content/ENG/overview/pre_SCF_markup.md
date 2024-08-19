@@ -1,0 +1,1 @@
+Additionally, {NAME}'s {STAR_SCF} particularly stood out as a strength while playing the game. Simultaneously, {NAME}'s was weaker in {DIAMOND_SCF}, which may have prevented {NAME} from performing at an even higher level. 

@@ -1,0 +1,3 @@
+---'s overall score for Executive Function (EFCS) was **average** compared to other children their age (---'s EFCS = -0.2, Average EFCS = 0.08, ---'s EFCS z-score = -0.2). EFCS measures a player's overall executive function and ability to plan and execute tasks. An average score in Executive Function means --- is on the right track and you shouldn't be too worried about their abilities in understanding and navigating complex tasks.
+
+---’s Executive Function score was average because they were able to adequately understand the tasks given to them by the game. You may have also noticed that though some tasks could have been challenging to them, it seemed like they understood general directions for solving them. 

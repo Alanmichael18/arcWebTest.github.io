@@ -1,0 +1,4 @@
+---'s overall score for Strategic Thinking (SAR) was **low** compared to other children their age (---'s SAR = -0.63, Average SAR = 9.92, ---'s SAR z-score = -0.63). SAR measures a player’s strategic thinking,  namely, their ability to abstractly come up with “best approaches” to a relatively open-ended task or need.  Though --- scored low on Strategic Thinking, strategic thinking is a skill that can be developed over time. Encourage creativity and open-ended play to foster new ideas and celebrating small successes will build their confidence and skills.
+
+
+---’s Strategic Thinking score was low because they struggle with coming up with efficient solutions to more open-ended tasks. You may have also noticed that in closed tasks they may unnecessarily complicated their board over picking more efficient solutions. 

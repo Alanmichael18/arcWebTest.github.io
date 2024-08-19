@@ -1,0 +1,1 @@
+{NAME}'s overall score for {METRIC} ({METRIC_CODE}) was **{SCORE_RATING}** compared to other children their age ({NAME}'s {METRIC_CODE} = {METRIC_SCORE}, Average {METRIC_CODE} = {METRIC_AVERAGE}, {NAME}'s {METRIC_CODE} z-score = {ZSCORE}). {METRIC_CODE} {METRIC_DESCRIPTION} {METRIC_REPORT_FROM_TABLE}
